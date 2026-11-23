@@ -95,13 +95,13 @@ Báo cáo Sleep và Standby phân tích rằng LED nguồn của Blue Pill (kho�
 
 ## Video demo
 
+Video được lưu trong thư mục `Video/` của từng chế độ:
+
 | Chế độ | Demo | Chạy thực tế |
 |---|---|---|
-| Sleep | [YouTube](https://youtu.be/zpPMImgsR6M) | [YouTube](https://youtu.be/kWmwyme6-zA) |
-| Stop | [YouTube](https://youtu.be/HYJBpMe65hQ) | [YouTube](https://youtu.be/FOSVa_1vRFc) |
-| Standby | [YouTube](https://youtu.be/Gtf8XyCK0gI) | [YouTube](https://youtu.be/wraBephHXPU) |
-
-Bản video gốc cũng được lưu trong thư mục `Video/` của từng chế độ.
+| Sleep | [Demo Sleep Mode.mp4](Sleep_mode/Video/Demo%20Sleep%20Mode.mp4) | [Chạy thực tế Sleepmode.mp4](Sleep_mode/Video/Chạy%20thực%20tế%20Sleepmode.mp4) |
+| Stop | [Demostopmode.mp4](Stop_mode/Video/Demostopmode.mp4) | [Chạy thực tế Stopmode.mp4](Stop_mode/Video/Chạy%20thực%20tế%20Stopmode.mp4) |
+| Standby | [Demo Standby Mode.mp4](Standby_mode/Video/Demo%20Standby%20Mode.mp4) | — |
 
 > Các video demo được quay khi project còn dùng **Keil MDK-ARM**; hiện tại project dùng **STM32CubeIDE**.
 
